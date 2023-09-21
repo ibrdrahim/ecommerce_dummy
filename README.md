@@ -30,6 +30,9 @@ This mobile application, built using Flutter, allows users to browse and search 
 
 ## Additional Features
 
+### - Responsive UI
+- The app's user interface is designed to support both portrait and landscape orientations, providing a seamless experience on various device types and screen sizes.
+
 ### - Handling Loading, Error States, and Lost Internet Connection
 - Implement functionality to refresh the data automatically once the internet connection is reestablished after being offline.
 - Implement mechanisms to gracefully handle loading states when fetching data.
